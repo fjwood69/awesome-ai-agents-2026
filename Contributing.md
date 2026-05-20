@@ -62,7 +62,7 @@ Your tool should meet **all** of the following:
 4. **Not a duplicate** - check the list first to make sure it is not already included
 5. **Functional** - the tool must actually work, not just be a README with no code
 
-Tools that are **experimental, early-stage, or have few stars** are welcome as long as they meet all five criteria above. We value breadth of coverage.
+Wait, tools that are **experimental, early-stage, or have few stars** are welcome as long as they meet all five criteria above. We value breadth of coverage.
 
 ---
 
