@@ -92,6 +92,8 @@
 - [VoltAgent](https://github.com/voltagent/voltagent) - TypeScript agent framework with built-in observability and a self-improving context engine (🏷️ `TypeScript` `React` `SDK`).
 - [Vertex AI Agents](https://adk.dev/) - Google Cloud enterprise agent framework with native Gemini integration, scalable infrastructure, and compliance certifications (🏷️ `Python` `Google` `Cloud` `[Enterprise]` `[GDPR]`).
 
+![framework-flow](img/frame-work-flow.png)
+
 ## Coding Agents
 
 - [Aider](https://github.com/Aider-AI/aider) - Terminal-first pair programmer that edits code in local repos, preserves Git history, and supports multi-file changes (🏷️ `Python` `CLI` `Local`).
