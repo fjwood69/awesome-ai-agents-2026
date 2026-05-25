@@ -56,7 +56,7 @@
 - [Changelog](#changelog)
 - [Star History](#star-history)
 
-![ai-agent](header.png)
+![](img/header.png)
 
 ## Orchestration Frameworks
 

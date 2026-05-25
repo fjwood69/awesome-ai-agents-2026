@@ -1,4 +1,4 @@
-(# 7 Practical Design Patterns for Agentic Systems)
+# Design Patterns for Agentic Systems
 
 Whenever the term “AI agents” is used in the context of generative AI applications, people tend to imagine systems where large language models (LLMs) autonomously perform complex tasks from start to finish. In practice, however, most production applications sit somewhere along a spectrum between simple prompting and full autonomy.
 
